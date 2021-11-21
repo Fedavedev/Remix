@@ -50,7 +50,7 @@
 	/* Header Stylings Ends */
 
 	.hero{
-		height: 1150px;
+		height: 1100px;
 	}
 
 	.hero-col-1 h1{
@@ -59,7 +59,7 @@
 	}
 
 	.hero-container{
-		padding: 40px;
+		padding: 20px;
 		display: flex;
 		flex-direction: column-reverse;
 	}
@@ -84,7 +84,7 @@
 	}
 
 	.collab-container{
-		padding: 40px;
+		padding: 20px;
 		display: flex;
 		flex-direction: column-reverse;
 	}
@@ -113,7 +113,7 @@
 	}
 
 	.testimonial-container{
-		padding: 40px;
+		padding: 20px;
 		display: flex;
 		flex-direction: column-reverse;
 	}
@@ -129,7 +129,7 @@
 	}
 
 	.form-container{
-		padding: 40px;
+		padding: 20px;
 		display: flex;
 		flex-direction: column;
 	}
@@ -167,7 +167,7 @@
 	}
 
 	.pricing-container{
-		padding: 40px;
+		padding: 20px;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
@@ -206,7 +206,7 @@
 	/* Footer Stylings Ends */
 
 	.footer-bar-container{
-		max-width: 350px;
+		max-width: 330px;
 		margin: 0 auto;
 	}
 
