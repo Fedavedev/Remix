@@ -53,6 +53,10 @@
 		height: 1200px;
 	}
 
+	.hero-col-1 h1{
+		font-size: 40px;
+	}
+
 	.hero-container{
 		padding: 40px;
 		display: flex;
@@ -103,6 +107,10 @@
 		height: 1050px;
 	}
 
+	.card{
+		width: 310px;
+	}
+
 	.testimonial-container{
 		padding: 40px;
 		display: flex;
@@ -116,7 +124,7 @@
 	/* Testimonial Stylings Ends */
 
 	.form{
-		height: 885px;
+		height: 879px;
 	}
 
 	.form-container{
@@ -145,6 +153,11 @@
 
 	.pricing{
 		height: 1600px;
+	}
+
+	.pricing-card-1, .pricing-card-2, .pricing-card-3{
+		width: 310px;
+		margin: 0 auto;
 	}
 
 	.pricing-container{
