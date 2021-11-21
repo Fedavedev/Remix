@@ -24,7 +24,7 @@
 	background-color: #F5F6F8;
 	padding: 10px 20px;
 	border-radius: 10px;
-	display: flex;
+	display: none;
 	gap:20px;
 }
 
