@@ -50,11 +50,12 @@
 	/* Header Stylings Ends */
 
 	.hero{
-		height: 1200px;
+		height: 1150px;
 	}
 
 	.hero-col-1 h1{
 		font-size: 40px;
+		line-height: 45px;
 	}
 
 	.hero-container{
@@ -124,7 +125,7 @@
 	/* Testimonial Stylings Ends */
 
 	.form{
-		height: 879px;
+		height: 870px;
 	}
 
 	.form-container{
@@ -155,6 +156,11 @@
 		height: 1600px;
 	}
 
+	.pricing-btn{
+		text-align: center;
+		padding: 20px 80px;
+	}
+
 	.pricing-card-1, .pricing-card-2, .pricing-card-3{
 		width: 310px;
 		margin: 0 auto;
@@ -164,6 +170,7 @@
 		padding: 40px;
 		display: flex;
 		flex-direction: column;
+		justify-content: center;
 		gap: 30px;
 	}
 
