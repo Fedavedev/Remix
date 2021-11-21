@@ -12,4 +12,8 @@ $("document").ready(function () {
 		$(".logo").attr("src", "img/Remix-logo light mode.svg")
 	})
 
+	$(".hamburger-menu").click(function (params) {
+		$(".mobile-nav").toggleClass("menu-display")
+	})
+
 })

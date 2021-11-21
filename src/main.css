@@ -57,6 +57,10 @@
 	cursor: pointer;
 }
 
+.hamburger-menu{
+	display: none;
+}
+
 header{
 	padding-top: 50px;
 	max-width: 1150px;

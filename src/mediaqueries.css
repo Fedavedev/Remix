@@ -1,11 +1,22 @@
 @media (max-width: 800px) {
 
+	.hamburger-menu{
+		display: block;
+		font-size: 20px !important;
+		cursor: pointer;
+	}
+
 	.mobile-nav{
 		display: none !important;
 		display: flex;
 		flex-direction: column !important;
 		align-items: center;
 		gap:50px;
+		margin-bottom: 20px;
+	}
+
+	.menu-display{
+		display: flex !important;
 	}
 
 	.mobile-nav ul{
